@@ -3,8 +3,11 @@ Welcome to my internship progress repository for the Edunet AI/ML Internship, wh
 📌 Internship Details
 
 Domain: Artificial Intelligence / Machine Learning
+
 Duration: 4 Weeks
+
 Project Title: Garbage Classification using Transfer Learning
+
 Organization: Edunet Foundation
 
 🧠 Project Overview
